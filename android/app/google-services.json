@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828463848493",
+    "project_id": "rido-4fb08",
+    "storage_bucket": "rido-4fb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828463848493:android:31b37adb466581331caca4",
+        "android_client_info": {
+          "package_name": "com.example.rider_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMvH9NcopwkFDYzhz16fwTjszTPyMnxxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
